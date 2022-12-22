@@ -1,0 +1,4 @@
+behave==1.2.6
+Faker==15.0.0
+selenium==4.7.2
+webdriver_manager==3.8.4
