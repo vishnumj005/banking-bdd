@@ -64,3 +64,5 @@ class.
 # Output
 ![](output/img.png)
 
+![](output/report.png)
+
